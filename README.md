@@ -16,7 +16,7 @@
        - 개인 신용등급은 개인신용평가사에서 전국민을 대상으로 신용도를 평가한 신용평가사 신용등급(CB 등급: Credit Bureau 등급)과 개별 기관에서 자체적으로 고객 또는 관련인의 신용도를 평가한 내부 신용등급(CSS 등급: Credit Scoring System 등급) 두 종류가 존재하고 있음
        - 신용평가사 신용등급(CB등급): 개인신용평가사가 수집한 각 개인의 다양한 신용정보를 종합하여, 통계적 방법으로 신용 수준을 분석하여 산출한 신용도 지표, 점수가 높을 수록 1년 내 신용 부실 가능성이 낮음
        - 내부 신용등급(CSS등급): 대출심사, 신용카드발급, 한도/금리 산정 등의 업무 처리를 위해, 내부 정보와 신용평가사의 정보를 모두 종합하여, 각 기관별로 최적화된 맞춤 신용도를 평가한 지표
-//NICE 평가정보
+
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcLkyZf%2Fbtqzb8DiomV%2FtSBxTm9u2iIHaJagRVIZK1%2Fimg.png" />
 
     4. 신용평가 활용정보

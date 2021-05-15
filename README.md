@@ -1,8 +1,5 @@
 # HeartBeat-Safety-System
 
-### 참고
-    1. 캐글 데이터 : https://www.kaggle.com/shayanfazeli/heartbeat
-
 ### 주제선정 및 이유
     1. 건설현장에서 인재로 인한 지속적인 사고가 발생
     2. 이는 건설 현장에서의 업무강도가 높음
